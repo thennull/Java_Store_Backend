@@ -13,10 +13,11 @@ public class Categories {
    @Id
    @SequenceGenerator( name = "category_sequence", sequenceName = "category_sequence",  allocationSize = 1)
    @GeneratedValue( strategy = GenerationType.SEQUENCE, generator = "category_sequence")
+   @Column(nullable = false, updatable = false)
    private Long categoryid;
    @NotNull
    @Length(max = 15)
    private String categoryname;
    private String description;
-   private Byte picture;
+   private byte[] picture;
 }

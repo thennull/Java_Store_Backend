@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Main-Class: br.com.server.northwind.NorthwindApplication
+Class-Path: spring-boot-starter-json-2.5.5.jar checker-qual-3.5.0.jar lo
+ g4j-to-slf4j-2.14.1.jar spring-boot-starter-logging-2.5.5.jar spring-bo
+ ot-starter-aop-2.5.5.jar snakeyaml-1.28.jar micrometer-core-1.7.4.jar t
+ hymeleaf-spring5-3.0.12.RELEASE.jar jackson-core-2.12.5.jar spring-aspe
+ cts-5.3.10.jar jakarta.xml.bind-api-2.3.3.jar spring-data-jpa-2.5.5.jar
+  spring-context-5.3.10.jar spring-boot-starter-validation-2.5.5.jar cla
+ ssmate-1.5.1.jar spring-boot-starter-security-2.5.5.jar spring-jcl-5.3.
+ 10.jar spring-security-crypto-5.5.2.jar spring-expression-5.3.10.jar lo
+ gback-core-1.2.6.jar spring-boot-autoconfigure-2.5.5.jar logback-classi
+ c-1.2.6.jar jackson-datatype-jdk8-2.12.5.jar javassist-3.27.0-GA.jar as
+ pectjweaver-1.9.7.jar spring-beans-5.3.10.jar spring-security-config-5.
+ 5.2.jar jackson-module-parameter-names-2.12.5.jar jackson-annotations-2
+ .12.5.jar jackson-databind-2.12.5.jar spring-aop-5.3.10.jar spring-boot
+ -starter-actuator-2.5.5.jar istack-commons-runtime-3.0.12.jar jakarta.v
+ alidation-api-2.0.2.jar spring-security-web-5.5.2.jar spring-security-c
+ ore-5.5.2.jar jboss-logging-3.4.2.Final.jar spring-tx-5.3.10.jar thymel
+ eaf-extras-java8time-3.0.4.RELEASE.jar HdrHistogram-2.1.12.jar byte-bud
+ dy-1.10.22.jar jakarta.transaction-api-1.3.3.jar hibernate-validator-6.
+ 2.0.Final.jar lombok-1.18.20.jar hibernate-commons-annotations-5.1.2.Fi
+ nal.jar spring-core-5.3.10.jar slf4j-api-1.7.32.jar spring-boot-2.5.5.j
+ ar tomcat-embed-el-9.0.53.jar jakarta.activation-api-1.2.2.jar spring-d
+ ata-commons-2.5.5.jar spring-boot-actuator-2.5.5.jar jaxb-runtime-2.3.5
+ .jar jandex-2.2.3.Final.jar dom4j-2.1.3.jar log4j-api-2.14.1.jar spring
+ -web-5.3.10.jar txw2-2.3.5.jar HikariCP-4.0.3.jar antlr-2.7.7.jar sprin
+ g-boot-starter-jdbc-2.5.5.jar jakarta.annotation-api-1.3.5.jar jul-to-s
+ lf4j-1.7.32.jar tomcat-embed-core-9.0.53.jar spring-boot-starter-tomcat
+ -2.5.5.jar unbescape-1.1.6.RELEASE.jar jakarta.activation-1.2.2.jar tom
+ cat-embed-websocket-9.0.53.jar spring-orm-5.3.10.jar spring-boot-devtoo
+ ls-2.5.5.jar hibernate-core-5.4.32.Final.jar thymeleaf-3.0.12.RELEASE.j
+ ar spring-boot-starter-data-jpa-2.5.5.jar postgresql-42.2.23.jar spring
+ -webmvc-5.3.10.jar jackson-datatype-jsr310-2.12.5.jar spring-boot-start
+ er-thymeleaf-2.5.5.jar spring-boot-actuator-autoconfigure-2.5.5.jar Lat
+ encyUtils-2.0.3.jar spring-boot-starter-web-2.5.5.jar attoparser-2.0.5.
+ RELEASE.jar spring-boot-starter-2.5.5.jar jakarta.persistence-api-2.2.3
+ .jar spring-jdbc-5.3.10.jar
+
